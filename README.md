@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haef06
-- 👀 I’m interested in cars
+- 👀 I’m interested in pc hardware
 - 🌱 I’m currently learning blender
 
 <!---
